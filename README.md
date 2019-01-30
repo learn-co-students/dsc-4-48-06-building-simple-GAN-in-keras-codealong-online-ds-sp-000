@@ -6,6 +6,7 @@
 In this lab, we will attempt to build a very simple Generative Adversarial Network for solving a toy problem. The GAN infrastructure shown in this lab can be applied to more complex problems including Computer vision and Image Analysis. GANs would take a long time to train even with simple image datasets like MNIST and CIFAR. You are encouraged to follow this experiment and try changing dataset and model architecture. For this lab, we will generate random sine curves and try to make our GAN learn and generate similar curves.
 
 ## Objectives
+You will be able to:
 - Develop a simple GAN architecture using a generator and a discriminator
 - Assess the performance of GAN using objective as well as subjective measures
 
